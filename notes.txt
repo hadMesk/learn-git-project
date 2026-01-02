@@ -2,3 +2,6 @@
 2.learning git commit 
 3.learning git push
 4.learning git pull
+====================
+5.Initial commit is done
+6.Connected ot Github successfully
