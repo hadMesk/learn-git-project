@@ -1,0 +1,4 @@
+1.learning git add
+2.learning git commit 
+3.learning git push
+4.learning git pull
